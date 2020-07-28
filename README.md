@@ -19,4 +19,5 @@ This is a program that can classify the quality of a wine based on a few categor
 **Results:**
 
 The model gets 52% accuracy:
+
 ![](/results/classification.png)
