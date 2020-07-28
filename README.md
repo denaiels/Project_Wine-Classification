@@ -10,7 +10,7 @@ BINUS University
 
 **Description:**
 
-This is a program that can classify the quality of a wine based on a few categories, those are volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. StandardScaler and PCA with 4 components are used to do feature engineering. The model used for classification is Backpropagation Neural Network (BPNN) and the output is the accuracy of model.
+Wine Classification is my exam project for the Artificial Neural Network course in my Semester 4 of Computer Science Major at BINUS University. This is a program that can classify the quality of a wine based on a few categories, those are volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. StandardScaler and PCA with 4 components are used to do feature engineering. The model used for classification is Backpropagation Neural Network (BPNN) and the output is the accuracy of model.
 
 **How to Use:**
 1. Open Classification_DanielAxel.ipynb
