@@ -4,7 +4,9 @@
 1. **Daniel Santoso (2201756506) (me)**
 2. Axel Jeremy - 2201756140
 
-**Dataset from:** BINUS University
+**Dataset from:**
+
+BINUS University
 
 **Description:**
 
@@ -15,3 +17,6 @@ This is a program that can classify the quality of a wine based on a few categor
 2. Run all the codes
 
 **Results:**
+
+The model gets 52% accuracy:
+![](/results/classification.png)
