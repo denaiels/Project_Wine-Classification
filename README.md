@@ -2,7 +2,7 @@
 
 **Made by Team:**
 1. **Daniel Santoso (2201756506) (me)**
-2. Axel Jeremy - 2201756140
+2. Axel Jeremy (2201756140)
 
 **Dataset from:**
 
